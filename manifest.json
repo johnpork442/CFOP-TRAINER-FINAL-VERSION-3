@@ -1,14 +1,17 @@
 {
+  "id": "/CFOP-TRAINER-FINAL-VERSION-2/",
   "name": "CFOP Trainer — Caleb Sanguino",
   "short_name": "CFOP Trainer",
   "description": "Entrenador del método Fridrich (CFOP): F2L, OLL y PLL, offline.",
   "start_url": "./index.html",
   "scope": "./",
   "display": "standalone",
-  "orientation": "portrait",
+  "display_override": ["window-controls-overlay", "standalone", "minimal-ui"],
+  "orientation": "any",
   "background_color": "#0f1115",
   "theme_color": "#0f1115",
   "lang": "es",
+  "categories": ["education", "utilities", "games"],
   "icons": [
     {
       "src": "icon-192.png",
