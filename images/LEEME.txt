@@ -1,0 +1,11 @@
+Coloca aquí las imágenes de cada caso para que aparezcan en la pestaña "Aprender".
+
+Convención de nombre de archivo (todo en minúsculas, sin espacios ni tildes):
+  images/f2l-1.png   images/f2l-2.png   ...  images/f2l-41.png
+  images/oll-1.png   images/oll-2.png   ...  images/oll-57.png
+  images/pll-aa.png  images/pll-ab.png  images/pll-h.png  images/pll-ja.png ... etc.
+
+Si un caso no tiene imagen todavía, la app muestra un ícono de cubo como reemplazo
+(no rompe nada, simplemente no se ve la foto de ese caso).
+
+Formato recomendado: PNG o JPG, cuadrado (ej. 300x300px), fondo simple.
